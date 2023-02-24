@@ -1,0 +1,15 @@
+PS C:\Lab\workspaces\workspace-angular-de-cero-a-experto\08-lifecycle> ng g c pages/pagina1 --skip-tests -is
+CREATE src/app/pages/pagina1/pagina1.component.html (22 bytes)
+CREATE src/app/pages/pagina1/pagina1.component.ts (254 bytes)
+UPDATE src/app/app.module.ts (406 bytes)
+
+PS C:\Lab\workspaces\workspace-angular-de-cero-a-experto\08-lifecycle> ng g c components/muestraNombre --skip-tests -is    
+CREATE src/app/components/muestra-nombre/muestra-nombre.component.html (29 bytes)
+CREATE src/app/components/muestra-nombre/muestra-nombre.component.ts (274 bytes)
+UPDATE src/app/app.module.ts (529 bytes)
+
+https://angular.io/guide/lifecycle-hooks
+
+
+
+
